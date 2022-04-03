@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/07-hello-world-ghp/static/css/main.073c9b0a.css",
-    "main.js": "/07-hello-world-ghp/static/js/main.01dd5769.js",
-    "static/js/787.885cfee4.chunk.js": "/07-hello-world-ghp/static/js/787.885cfee4.chunk.js",
-    "static/media/logo.svg": "/07-hello-world-ghp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/07-hello-world-ghp/index.html",
-    "main.073c9b0a.css.map": "/07-hello-world-ghp/static/css/main.073c9b0a.css.map",
-    "main.01dd5769.js.map": "/07-hello-world-ghp/static/js/main.01dd5769.js.map",
-    "787.885cfee4.chunk.js.map": "/07-hello-world-ghp/static/js/787.885cfee4.chunk.js.map"
+    "main.css": "./static/css/main.073c9b0a.css",
+    "main.js": "./static/js/main.b8e112ff.js",
+    "static/js/787.885cfee4.chunk.js": "./static/js/787.885cfee4.chunk.js",
+    "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "./index.html",
+    "main.073c9b0a.css.map": "./static/css/main.073c9b0a.css.map",
+    "main.b8e112ff.js.map": "./static/js/main.b8e112ff.js.map",
+    "787.885cfee4.chunk.js.map": "./static/js/787.885cfee4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.01dd5769.js"
+    "static/js/main.b8e112ff.js"
   ]
 }
